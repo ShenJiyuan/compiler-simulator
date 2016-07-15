@@ -1,0 +1,14 @@
+This is the readme file of the project1.
+
+lexxx.l
+It is the input file of the lex compiler. 
+
+yaccc.y
+It is the input file of the syntax compiler.
+
+node.h 
+It contains the struct for information delivering from lexical analyzer to the syntax parser.
+
+makefile 
+It is used for making the project.
+
